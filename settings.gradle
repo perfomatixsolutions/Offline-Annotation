@@ -1,0 +1,3 @@
+include ':videoAnnotation'
+include ':app'
+rootProject.name = "OfflineAnnotation"
