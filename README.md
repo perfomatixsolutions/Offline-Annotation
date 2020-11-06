@@ -19,12 +19,12 @@ Add it in your root build.gradle at the end of repositories:
 	}
 # Step 3. Initialize the object for calling the functions
 
-   DrawableView mDrawableView;
+   	DrawableView mDrawableView;
 
-   mDrawableView.setDrawEnable(true); 
+  	mDrawableView.setDrawEnable(true); 
 
-   mDrawableView.clearDrawLocal();  //clear the view
+   	mDrawableView.clearDrawLocal();  //clear the view
 
-   mDrawableView.setupPaint(strokewidth, color); //set the width of line and colour
+   	mDrawableView.setupPaint(strokewidth, color); //set the width of line and colour
 
-   Eg: mDrawableView.setupPaint(5, Color.BLUE)
+   	Eg: mDrawableView.setupPaint(5, Color.BLUE)
