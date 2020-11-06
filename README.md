@@ -1,5 +1,5 @@
 # Offline-Annotation -Android
-It will help you to draw a line to your view
+This library allows to draw different shapes, lines, marks easily. It's customizable and provides posibility to draw different shapes by different color and different width. 
 
 
 # Step 1. Add the JitPack repository to your build file
